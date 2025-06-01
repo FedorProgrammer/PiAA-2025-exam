@@ -14,7 +14,7 @@
 ## graph-algs
 1) [3-graph-coloring](3-graph-coloring.md)
 2) [backtracking](backtracking.md)
-3) [salesman](salesman.md)
+3) [TSP](TSP.md)
 4) [minimal-graph-section](minimal-graph-section.md)
 5) [maximal-graph-flow](maximal-graph-flow.md)
 6) [a-star](a-star.md)

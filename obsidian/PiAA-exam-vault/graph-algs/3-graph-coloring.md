@@ -1,9 +1,9 @@
 # info
 1) [algorithm](#algorithm)
 	- [3-graph-coloring](##3-graph-coloring)
-		- [full-search](###full-search)
-		- [partial-search](###partial-search)
-		- [set-search](###set-search)
+		- [brute-force](###brute-force)
+		- [partial-enumeration](###partial-enumeration)
+		- [set-enumeration](###set-enumeration)
 		- [probabilistic-algorithm](###probabilistic-search)
 	- [SAT](##SAT)
 2) [usage](#usage)
@@ -15,17 +15,17 @@
 ## 3-graph-coloring
 Алгоритм правильной раскраски графа в 3 различных цвета. NP трудная задача: проверить решение можно за полиномиальное время (но не найти его).
 
-### full-search
+### brute-force
 Полный перебор.
 
 Для каждой вершины рассматривать один из трех цветов. Следовательно, рассматриваем для каждой вершины одно из трех состояний (цвет).
 
-### partial-search
+### partial-enumeration
 Частичный перебор.
 
 Для инцидентных (соседние) вершин рассматривать различные цвета. Таким образом, каждая вершина будет принимать 2 различных состояния (цвета).
 
-### set-search
+### set-enumeration
 Перебор множеств размера n/3.
 
 По итогу раскраски должно появится три области (множества), содержащие вершины с различными цветами (**такое множество** - антиклика (независимое множество) (множество вершин, что НЕ соединены между собой ребром)).

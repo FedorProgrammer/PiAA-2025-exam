@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph-algs/backtracking.md",
+                "file": "graph-algs/TSP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backtracking"
+              "title": "TSP"
             }
           }
         ]
@@ -170,11 +170,16 @@
   },
   "active": "0d9b06164e75e414",
   "lastOpenFiles": [
+    "graph-algs/3-graph-coloring.md",
+    "graph-algs/TSP.md",
+    "graph-algs/backtracking.md",
+    "PiAA-2025-exam.md",
+    "Pasted image 20250522224730.png",
+    "Pasted image 20250525193636.png",
+    "Pasted image 20250522211931.png",
     "Pasted image 20250601144959.png",
     "Pasted image 20250601141437.png",
     "Pasted image 20250601141413.png",
-    "graph-algs/3-graph-coloring.md",
-    "graph-algs/backtracking.md",
     "Pasted image 20250531214633.png",
     "graph-algs/graph-isomorphism.md",
     "graph-algs/a-star.md",
@@ -185,10 +190,8 @@
     "string-algs/amortized-complexity.md",
     "string-algs/aho-corasick.md",
     "graph-algs/suffix-tree-and-arrays.md",
-    "graph-algs/salesman.md",
     "graph-algs/minimal-graph-section.md",
     "graph-algs/maximal-graph-flow.md",
-    "PiAA-2025-exam.md",
     "graph-algs",
     "string-algs"
   ]
