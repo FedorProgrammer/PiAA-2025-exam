@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "string-algs/greedy-algorithms.md",
+                "file": "string-algs/knuth-morris-pratt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "greedy-algorithms"
+              "title": "knuth-morris-pratt"
             }
           }
         ]
@@ -170,18 +170,23 @@
   },
   "active": "a0602cc450254701",
   "lastOpenFiles": [
+    "Pasted image 20250604111340.png",
+    "Pasted image 20250604110243.png",
+    "Pasted image 20250604105714.png",
+    "Pasted image 20250604103346.png",
+    "Pasted image 20250604100852.png",
+    "graph-algs/TSP.md",
+    "string-algs/knuth-morris-pratt.md",
+    "string-algs/greedy-algorithms.md",
     "graph-algs/backtracking.md",
     "graph-algs/a-star.md",
     "graph-algs/3-graph-coloring.md",
     "graph-algs/graph-isomorphism.md",
     "graph-algs/minimal-graph-cut.md",
     "graph-algs/suffix-tree-and-arrays.md",
-    "graph-algs/TSP.md",
     "string-algs/aho-corasick.md",
     "string-algs/amortized-complexity.md",
     "string-algs/dynamic-programming.md",
-    "string-algs/greedy-algorithms.md",
-    "string-algs/knuth-morris-pratt.md",
     "Pasted image 20250602210512.png",
     "Pasted image 20250602000025.png",
     "Pasted image 20250601201955.png",
@@ -190,10 +195,6 @@
     "graph-algs/maximal-graph-flow.md",
     "Pasted image 20250522224730.png",
     "Pasted image 20250525193636.png",
-    "Pasted image 20250522211931.png",
-    "Pasted image 20250601144959.png",
-    "Pasted image 20250601141437.png",
-    "Pasted image 20250601141413.png",
     "().md",
     "graph-algs",
     "string-algs"
