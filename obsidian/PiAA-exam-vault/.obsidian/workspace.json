@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "040472f40e97baff",
+        "id": "72d880b11690264b",
         "type": "tabs",
         "children": [
           {
-            "id": "a0602cc450254701",
+            "id": "f90a52774152188b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "string-algs/knuth-morris-pratt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "knuth-morris-pratt"
+              "title": "New tab"
             }
           }
         ]
@@ -168,33 +164,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0602cc450254701",
+  "active": "f90a52774152188b",
   "lastOpenFiles": [
+    "string-algs/knuth-morris-pratt.md",
+    "Pasted image 20250604235322.png",
+    "Pasted image 20250604234732.png",
+    "Pasted image 20250604200946.png",
+    "Pasted image 20250604200942.png",
+    "graph-algs/3-graph-coloring.md",
+    "graph-algs/a-star.md",
+    "string-algs/aho-corasick.md",
+    "graph-algs/maximal-graph-flow.md",
+    "string-algs/amortized-complexity.md",
+    "graph-algs/graph-isomorphism.md",
+    "graph-algs/suffix-tree-and-arrays.md",
     "Pasted image 20250604111340.png",
     "Pasted image 20250604110243.png",
     "Pasted image 20250604105714.png",
     "Pasted image 20250604103346.png",
     "Pasted image 20250604100852.png",
     "graph-algs/TSP.md",
-    "string-algs/knuth-morris-pratt.md",
     "string-algs/greedy-algorithms.md",
     "graph-algs/backtracking.md",
-    "graph-algs/a-star.md",
-    "graph-algs/3-graph-coloring.md",
-    "graph-algs/graph-isomorphism.md",
     "graph-algs/minimal-graph-cut.md",
-    "graph-algs/suffix-tree-and-arrays.md",
-    "string-algs/aho-corasick.md",
-    "string-algs/amortized-complexity.md",
     "string-algs/dynamic-programming.md",
     "Pasted image 20250602210512.png",
-    "Pasted image 20250602000025.png",
-    "Pasted image 20250601201955.png",
-    "Pasted image 20250601201948.png",
     "PiAA-2025-exam.md",
-    "graph-algs/maximal-graph-flow.md",
-    "Pasted image 20250522224730.png",
-    "Pasted image 20250525193636.png",
     "().md",
     "graph-algs",
     "string-algs"
