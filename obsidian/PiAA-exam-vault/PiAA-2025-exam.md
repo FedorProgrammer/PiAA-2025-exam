@@ -18,12 +18,12 @@
 4) [minimal-graph-cut](minimal-graph-cut.md)
 5) [maximal-graph-flow](maximal-graph-flow.md)
 6) [a-star](a-star.md)
-7) [suffix-tree-and-arrays](suffix-tree-and-arrays.md)
-8) [graph-isomorphism](graph-isomorphism.md)
+7) [graph-isomorphism](graph-isomorphism.md)
 
 ## string-algs:
 1) [dynamic-programming](dynamic-programming.md)
 2) [greedy-algorithms](greedy-algorithms.md)
 3) [knuth-morris-pratt](knuth-morris-pratt.md)
 4) [aho-corasick](aho-corasick.md)
-5) [amortized-complexity](amortized-complexity.md)
+5) [suffix-tree-and-arrays](suffix-tree-and-arrays.md)
+6) [amortized-complexity](amortized-complexity.md)

@@ -152,4 +152,4 @@ s <-- какое-нибудь начальное решение
 - **По памяти:** `O(N^2)` (хранение матрицы весов)
 
 # content
-- [lection](https://youtu.be/r804FVgvaTo?si=p7zewN3-JrCvdq5H)
+- [lecture](https://youtu.be/r804FVgvaTo?si=p7zewN3-JrCvdq5H)

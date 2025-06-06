@@ -103,5 +103,5 @@
 	- **По памяти:** `O(n^2)` (хранение графа в виде таблицы)
 
 # content
-- [lection](https://youtu.be/wmmCILxyU-M?si=bGwTsZDmIKIpRDWJ)
+- [lecture](https://youtu.be/wmmCILxyU-M?si=bGwTsZDmIKIpRDWJ)
 - [complexity](https://youtu.be/TXS47WMaAow?si=RZk0SSj1hRe6wPBX&t=1211)
