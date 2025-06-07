@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "72d880b11690264b",
+        "id": "7fcf866be67cdb35",
         "type": "tabs",
         "children": [
           {
-            "id": "f90a52774152188b",
+            "id": "f945a94c97567b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PiAA-2025-exam.md",
+                "file": "graph-algs/a-star.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PiAA-2025-exam"
+              "title": "a-star"
             }
           }
         ]
@@ -168,11 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f90a52774152188b",
+  "active": "f945a94c97567b8b",
   "lastOpenFiles": [
     "string-algs/suffix-tree-and-arrays.md",
-    "Pasted image 20250607000804.png",
+    "graph-algs/a-star.md",
+    "dijkstra-potentials.md",
     "string-algs/aho-corasick.md",
+    "dejkstra-potentials.md",
+    "Pasted image 20250607135343.png",
+    "PiAA-2025-exam.md",
+    "Pasted image 20250607000804.png",
     "Pasted image 20250606235427.png",
     "Pasted image 20250606234127.png",
     "Pasted image 20250606233651.png",
@@ -185,15 +190,12 @@
     "string-algs/knuth-morris-pratt.md",
     "Pasted image 20250606225756.png",
     "graph-algs/3-graph-coloring.md",
-    "graph-algs/a-star.md",
     "graph-algs/backtracking.md",
     "graph-algs/graph-isomorphism.md",
     "graph-algs/maximal-graph-flow.md",
     "graph-algs/minimal-graph-cut.md",
     "Pasted image 20250606222607.png",
     "Pasted image 20250606222236.png",
-    "Pasted image 20250604235322.png",
-    "PiAA-2025-exam.md",
     "().md",
     "graph-algs",
     "string-algs"
