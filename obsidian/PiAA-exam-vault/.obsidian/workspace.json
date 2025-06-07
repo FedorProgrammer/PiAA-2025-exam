@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph-algs/a-star.md",
+                "file": "graph-algs/graph-isomorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a-star"
+              "title": "graph-isomorphism"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "f945a94c97567b8b",
   "lastOpenFiles": [
-    "string-algs/suffix-tree-and-arrays.md",
+    "string-algs/amortized-complexity.md",
+    "graph-algs/graph-isomorphism.md",
     "graph-algs/a-star.md",
+    "string-algs/suffix-tree-and-arrays.md",
     "dijkstra-potentials.md",
     "string-algs/aho-corasick.md",
     "dejkstra-potentials.md",
@@ -184,14 +186,12 @@
     "Pasted image 20250606233532.png",
     "Pasted image 20250606232205.png",
     "graph-algs/TSP.md",
-    "string-algs/amortized-complexity.md",
     "string-algs/dynamic-programming.md",
     "string-algs/greedy-algorithms.md",
     "string-algs/knuth-morris-pratt.md",
     "Pasted image 20250606225756.png",
     "graph-algs/3-graph-coloring.md",
     "graph-algs/backtracking.md",
-    "graph-algs/graph-isomorphism.md",
     "graph-algs/maximal-graph-flow.md",
     "graph-algs/minimal-graph-cut.md",
     "Pasted image 20250606222607.png",
